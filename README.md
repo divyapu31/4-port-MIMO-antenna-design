@@ -15,10 +15,10 @@ s = 1.1   # mm
 w_1 = 29.5  # Cavity 1
 w_2 = 25.5  # Cavity 2
 
-# Effective dielectric constant (assumed for substrate, e.g., Rogers)
+# Effective dielectric constant (Rogers 5880)
 epsilon_reff = 2.2
 
-# Calculate effective widths w_1eff and w_2eff from equations (3) and (4)
+# Calculate effective widths w_1eff and w_2eff 
 delta = (d ** 2) / (0.95 * s)
 w_1eff = w_1 - delta
 w_2eff = w_2 - delta
