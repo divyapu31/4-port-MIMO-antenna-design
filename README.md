@@ -1,6 +1,9 @@
- 4-Port-MIMO-Antenna-Design
- 
- Step 1.
+Title of the manuscript :Compact 4-Port MIMO Antenna-Diplexer Utilizing Slotted-HMSIW Technology
+Paper id: 9679
+Authors and their affiliations: 1. D. Chaturvedi, Dept. of Electronics and Communication Engineering, Indian Institute of Information Technology, Pune, India 2.L. Tiruganesh, Dept. of Electronics and Communication Engineering, SRM University-AP, India 3. Arvind Kumar ( corresponding author),Dept. of Electronics and Communication Engineering, Visvesvaraya National Institute of Technology, Nagpur, India.  
+
+** 4-Port-MIMO-Antenna-Design steps**
+  Step 1.
 # Calculate the resonant frequency of FMSIW cavity 
 # Calculate the upper and lower opearting frequencies with effective cavity dimensions 
 import math
